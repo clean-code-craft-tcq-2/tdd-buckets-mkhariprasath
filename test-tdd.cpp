@@ -1,5 +1,5 @@
-#include "frequentCurrentRange.h"
-#include "a2dConverter.h"
+#include "frequentCurrentRanges.h"
+#include "adc.h"
 #include <assert.h>
 
 #define A2D_RESOLUTION  12
