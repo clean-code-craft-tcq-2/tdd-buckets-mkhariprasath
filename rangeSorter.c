@@ -1,4 +1,4 @@
-#include "frequentCurrentRange.h"
+#include "frequentCurrentRanges.h"
 
 void bubbleSortAscending(const float* inputArray, int numOfReadings, float* sortedArray)
 {
